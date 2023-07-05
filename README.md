@@ -6,7 +6,7 @@ Also known as "The Cycle: Frontier".
 
 This repository is just something I work on when bored, do not expect much at this stage.
 
-## Features
+## Features.
 
 - [x] Connect with localhost instead of official servers
 - [ ] Basic authentication
