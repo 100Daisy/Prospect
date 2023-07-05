@@ -17,7 +17,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: Setup Dotnet 
+    - name: Setup Dotnetw 
       uses: actions/setup-dotnet@v1
       with:
         dotnet-version: '6.0.x'
